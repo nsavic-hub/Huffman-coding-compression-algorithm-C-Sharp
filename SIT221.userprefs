@@ -1,0 +1,52 @@
+﻿<Properties StartupItem="Runner/Runner.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures_Algorithms/Week03/LinkedList.cs">
+    <Files>
+      <File FileName="DataStructures_Algorithms/Week02/Vector.cs" Line="190" Column="11" />
+      <File FileName="DataStructures_Algorithms/Week02/Part.cs" Line="11" Column="3" />
+      <File FileName="Runner/Runner02_Task2.cs" Line="41" Column="4" />
+      <File FileName="Runner/Program.cs" Line="19" Column="13" />
+      <File FileName="DataStructures_Algorithms/Week02/PartComparer.cs" Line="9" Column="30" />
+      <File FileName="DataStructures_Algorithms/Week03/LinkedList.cs" Line="65" Column="5" />
+      <File FileName="DataStructures_Algorithms/Week03/Node.cs" Line="4" Column="21" />
+      <File FileName="Runner/Runner01.cs" Line="46" Column="111" />
+      <File FileName="DataStructures_Algorithms/Week01/Vector.cs" Line="93" Column="4" />
+      <File FileName="Runner/Runner03_Task01.cs" Line="46" Column="37" />
+      <File FileName="Runner/Runner02_Task1.cs" Line="48" Column="1" />
+      <File FileName="DataStructures_Algorithms/Week03/LinkedListSerializer.cs" Line="37" Column="33" />
+      <File FileName="DataStructures_Algorithms/Week02/DataSerializer.cs" Line="36" Column="1" />
+      <File FileName="DataStructures_Algorithms/Week03/ListEnumerator.cs" Line="28" Column="6" />
+      <File FileName="Runner/Lecture3.cs" Line="15" Column="27" />
+      <File FileName="DataStructures_Algorithms/Week04/LinkedList.cs" Line="25" Column="4" />
+      <File FileName="DataStructures_Algorithms/Week04/Node.cs" Line="3" Column="2" />
+      <File FileName="DataStructures_Algorithms/Week04/ListEnumerator.cs" Line="7" Column="37" />
+      <File FileName="DataStructures_Algorithms/Week04/Vector.cs" Line="216" Column="4" />
+      <File FileName="DataStructures_Algorithms/Week04/Stack.cs" Line="15" Column="5" />
+      <File FileName="DataStructures_Algorithms/Week04/Queue.cs" Line="18" Column="31" />
+      <File FileName="Runner/Week04_Task1.cs" Line="21" Column="63" />
+      <File FileName="DataStructures_Algorithms/Project1/Task01/SortingAlgorithm.cs" Line="6" Column="4" />
+      <File FileName="DataStructures_Algorithms/Project1/Task01/ISorter.cs" Line="6" Column="29" />
+      <File FileName="DataStructures_Algorithms/Project1/Task01/Vector.cs" Line="352" Column="2" />
+      <File FileName="Runner/Project01_Task01.cs" Line="50" Column="113" />
+      <File FileName="DataStructures_Algorithms/Project1/Task01/DataSerializer.cs" Line="49" Column="14" />
+      <File FileName="DataStructures_Algorithms/Week04/RPNCalculator.cs" Line="62" Column="1" />
+      <File FileName="Runner/Week04_Task02.cs" Line="18" Column="21" />
+      <File FileName="DataStructures_Algorithms/Project1/Task02/SetClass.cs" Line="27" Column="35" />
+      <File FileName="Runner/Data/Project01/SetA.txt" Line="10" Column="1" />
+      <File FileName="Runner/Data/Project01/SetB.txt" Line="9" Column="3" />
+      <File FileName="Runner/Data/Project01/Set_U.txt" Line="10" Column="3" />
+      <File FileName="Runner/Data/Project01/element.txt" Line="1" Column="2" />
+      <File FileName="DataStructures_Algorithms/Project1/Task02/OperationEnum.cs" Line="15" Column="1" />
+      <File FileName="Runner/Project01_Task02.cs" Line="67" Column="17" />
+      <File FileName="DataStructures_Algorithms/Project1/SetClass2.cs" Line="26" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/Project01.cs" line="42" column="1" />
+      <Breakpoint file="/Work/Teaching/SIT221/2016/Labs/Week03/Solution/SIT221 Week03 Answer/Runner/Runner02_Task2.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Runner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

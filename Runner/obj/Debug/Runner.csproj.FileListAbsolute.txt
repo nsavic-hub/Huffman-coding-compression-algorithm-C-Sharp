@@ -1,0 +1,48 @@
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\bin\Debug\Runner.exe.config
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\bin\Debug\Runner.exe
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\bin\Debug\Runner.pdb
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\bin\Debug\DataStructures_Algorithms.dll
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\bin\Debug\DataStructures_Algorithms.pdb
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\obj\Debug\Runner.exe
+c:\Users\mabdel\Documents\Visual Studio 2015\Projects\SIT221\Runner\obj\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\bin\Debug\Runner.exe.config
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\bin\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\bin\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\obj\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1\SIT221 Project1\Runner\obj\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\bin\Debug\Runner.exe.config
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\bin\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\bin\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\obj\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 1\SIT221 Project1_Solution_Thanh\SIT221 Project1\Runner\obj\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\bin\Debug\Runner.exe.config
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\bin\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\bin\Debug\Runner.pdb
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.dll
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.pdb
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\obj\Debug\Runner.exe
+C:\Working\2017\Teaching\221\Assignment 2\SIT221 Project2_Thanh\SIT221 Project2\Runner\obj\Debug\Runner.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\bin\Debug\Runner.exe.config
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\obj\Debug\Runner.exe
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\obj\Debug\Runner.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\bin\Debug\Runner.exe
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\bin\Debug\Runner.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.dll
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2\SIT221 Project2\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\bin\Debug\Runner.exe.config
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\obj\Debug\Runner.exe
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\obj\Debug\Runner.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\bin\Debug\Runner.exe
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\bin\Debug\Runner.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.dll
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\bin\Debug\DataStructures_Algorithms.pdb
+\\homes.deakin.edu.au\nsavic\UserData\Desktop\SIT221 - Data Structures And Algorithms\SIT221 Project2 Bonus\SIT221 Project2\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
